@@ -33,7 +33,8 @@ def get_items():
 app.add_middleware(
     CORSMiddleware,
     allow_origins=[
-        'http://5.187.2.193'
+        'http://nikitabobylev.site',
+        'https://nikitabobylev.site',
     ],
     allow_credentials=True,
     allow_methods=["*"],
