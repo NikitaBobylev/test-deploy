@@ -35,6 +35,7 @@ app.add_middleware(
     allow_origins=[
         'http://nikitabobylev.site',
         'https://nikitabobylev.site',
+        'https://api.nikitabobylev.site',
     ],
     allow_credentials=True,
     allow_methods=["*"],
