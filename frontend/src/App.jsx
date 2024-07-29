@@ -3,7 +3,7 @@ import './App.css'
 import axios from 'axios'
 
 
-const backend_uri = '/api/items'
+const backend_uri = 'https://api.nikitabobylev.site'
 
 
 function App() {
