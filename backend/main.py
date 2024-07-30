@@ -12,17 +12,17 @@ def get_items():
     items = [
         {
             "id": 1,
-            "name": "Docker",
+            "name": "test",
             "img": "https://static-00.iconduck.com/assets.00/docker-icon-2048x2048-5mc7mvtn.png",
         },
         {
             "id": 2,
-            "name": "Nginx",
+            "name": "test",
             "img": "https://www.svgrepo.com/show/373924/nginx.svg",
         },
         {
             "id": 3,
-            "name": "GitHub",
+            "name": "test",
             "img": "https://cdn-icons-png.flaticon.com/512/25/25231.png",
         },
     ]
